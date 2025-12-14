@@ -64,7 +64,7 @@ st.markdown("""
     /* Input fields */
     input[type="text"], input[type="number"] {
         background: white;
-        color: white;
+        color: black;
         border: 2px solid  #111111; 
         border-radius: 8px;
         padding: 0.5em 1.2em;
